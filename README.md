@@ -2,7 +2,7 @@
 
 <h1>Description</h1>
 
-<p>This Horiseon Refactor Website is intended create a codebase that follows accessibily standards.</p>
+<p>This Horiseon Refactor Website is intended to create a codebase that follows accessibily standards.</p>
 
 <h1>Installation</h1>
 
