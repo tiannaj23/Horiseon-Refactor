@@ -61,8 +61,8 @@ a {
     margin-left: 20px;
 }
 
-p {
-    font-size: 16px;
+.search-engine-optimization, .online-reputation-management, .social-media-marketing img {
+    max-height: 200px;
 }
 
 .float-left {
@@ -73,6 +73,15 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}   
+
+.search-engine-optimization, .online-reputation-management, .social-media-marketin h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .benefits {
