@@ -46,6 +46,7 @@ a {
     text-decoration: none;
 }
 
+
 .hero {
     height: 800px;
     width: 100%;
@@ -70,6 +71,11 @@ a {
     color: #ffffff;
 }
 
+.search-engine-optimization, .online-reputation-management, .social-media-marketin h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .search-engine-optimization, .online-reputation-management, .social-media-marketing img {
     max-height: 200px;
 }
@@ -82,11 +88,6 @@ a {
 .float-right {
     float: right;
     margin-left: 25px;
-}   
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketin h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 p {
