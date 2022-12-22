@@ -1,16 +1,21 @@
 # Horiseon-Refactor
 
-Description
-This Horiseon Refactor Website is intended create a codebase that follows accessibily standards.
+<h1>Description</h1>
 
-Installation
-N/A
+<p>This Horiseon Refactor Website is intended create a codebase that follows accessibily standards.</p>
 
-Usage
-To navigate the Horiseon Refactor website, you can review the descriptive sections "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing."
+<h1>Installation</h1>
 
-Credits
-N/A
+<p>N/A</p>
 
-License
-Please refer to the LICENSE in the repo.
+<h1>Usage</h1>
+
+<p>To navigate the Horiseon Refactor website, you can review the descriptive sections "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing"</p>
+
+<h1>Credits</h1>
+
+<p>N/A</p>
+
+<h1>License</h1>
+
+<p>Please refer to the LICENSE in the repo.</p>
