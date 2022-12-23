@@ -19,3 +19,5 @@
 <h1>License</h1>
 
 <p>Please refer to the LICENSE in the repo.</p>
+
+[desktop]: http://url/to/img.png
